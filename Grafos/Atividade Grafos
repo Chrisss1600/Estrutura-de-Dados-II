@@ -1,1 +1,30 @@
+#Material do Estudante - Prática de Grafos
+
+Disciplina: Estrutura de Dados II
+Unidade III: Grafos
+Professora: Kadidja Valéria
+Conteúdo-base: Capítulo 1 - Conceitos Fundamentais
+Duração prevista: atividades distribuídas ao longo da aula de 2 horas
+1. Objetivos da prática
+
+#Ao final das atividades, você deverá ser capaz de:
+
+    representar problemas utilizando grafos;
+    identificar vértices e arestas;
+    reconhecer incidência e adjacência;
+    diferenciar grafos não dirigidos e grafos dirigidos;
+    determinar ordem, tamanho e grau de vértices;
+    reconhecer laços e arestas paralelas;
+    analisar isomorfismo e subgrafos;
+    construir e conferir sequências de graus;
+    utilizar ferramentas digitais para representar grafos.
+
+#2. Orientações gerais
+
+    Leia o enunciado antes de iniciar o desenho.
+    Quando solicitado, registre primeiro os conjuntos de vértices V e de arestas E.
+    Utilize círculos ou pontos para representar vértices e linhas/setas para representar arestas.
+    Em grafos dirigidos, a seta deve indicar claramente a origem e o destino.
+    Não entregue somente o desenho: apresente também as respostas e justificativas solicitadas.
+    Quando utilizar uma plataforma digital, registre uma captura de tela ou o link da atividade.
 
